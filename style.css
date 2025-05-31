@@ -1,0 +1,22 @@
+body {
+  max-width: 600px;
+  margin: 40px auto;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 0 20px;
+  background-color: #fafafa;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: 0.4em;
+}
+
+a {
+  color: #007aff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
